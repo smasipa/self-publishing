@@ -1,0 +1,101 @@
+================================================Target Market====================================
+Primary : Writers, Comic artists, Tutorial Makers(Will add a video feature later when there's mass adoptation).
+Secondary : Readers
+================================================/Target Market====================================
+
+EasyReads Features
++Audio books at later stage
++Main Navigation
+	-Website logo
+	-Discover
+		-Authors
+		-Books
+	-Publish(Option for authors)
+	-Go premium(for standard users)
+
++Comments For Each Insert
++Authors
+	-Must sign up through the website
+	-Number Of Reads Per Book
+	-Authors can decide if they want to sell a publication,
+	they must specify a price in their currency(make use of a currency api).
+	-announcements board (should be simple container with short messages)
+	-Show Number Of Publications
+	-Authors can edit their publications which includes the titles and contents
+	-Authors can delete comments from malicious users for their own publications.
+	-Show List of publications(Mixture of Paid(orange) and Free(green))
+	-Authors can publish books and/ or inserts as well as in pdf format
+	urls
+	-url scheme e.g mphomasipa.intreads/books/
+	intreads/bookId/bookName/bookVersion/
+	intreads/bookId/bookName/?page=1
+	-url scheme e.g intreads/1/diary-of-a-blesser/s2/pt2/?p=2
+	-url scheme e.g intreads/1/diary-of-a-blesser/?p=2
+	-url scheme e.g intreads/1/diary-of-a-blesser/?p=2
+	
++Signed up users.
+	-Can use Facebook, Twitter Or G+ to sign up
+	-They can see list of books they've recently read
+	-Get suggestions on which books to read
+	-Can put books and or/ authors into favourites list. They will be notified when the author publishes a new season, 
+	or when a new insert of a season has been published.
+	-Get email news letters whenever new content is available(if they have subscribed to a newsletter)
+
++Book page
+	-Book titles
+	-Brief description
+	-Written By Author Name
+	-Date
+	-Paid / Free
+	-Similar books
+	-*Similar authors(based on category/ries of current author)
+	-Number of reads
+
++Main read page
+	-Tags
+	-minimalistic page with easy to read font
+	-add to favourites button
+	-share on social media
++Buy 	
+	-Form scheme e.g intreads/buy/diary-of-a-blesser/s2
+	price e.g R20.
+	
+	purchase includes reciept linked to a specefic user name or email address.
+	download link/ subscribe via website(need to be a website member) or email.
+	
+	account type
+	-premium membership
+		- R89 p/m 
+		-per annum = R89 * 12
+				   = R1 068 * 30% Discount
+				   = R747.60		
+		-per annum = R59 * 12
+				   = R708 * 30% Discount
+				   = R495.60
+		- get up to 20 free edited pdfs of all published books per month
+	-standard membership 
+		- get's free access to a limited number of stories per month
+	payment methods
+		-EFT
+		-Credit card through third party
+		-Paypal(later)
+	Writers Compensation
+		Pricing
+			- R10 for short books
+			- R200 for whole season for none premium
+			
+		-For every pdf sold author gets 85% of the amount it was sold for.
+		-The owners of the website get 15% 
+	
+====================================================Word editor======================================================
+Can attach up to 100 images for premium membership
+Can attach up to 10 images for standard membership
+
+Pictures can be attach in the middle of a posts text.
+
+Add a pdf creator:
+-Use existing cover photo of post or add a new one
+-Adds table of contents and chapters
+-It will convert a whole season and its attachements
+-Convert single posts to pdfs
+====================================================/Word editor=====================================================

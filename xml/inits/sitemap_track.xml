@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<urlset xmlns="http://www.sitemaps.org//schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<folder>
+	<lastloaded>sitemap_folder_2.xml</lastloaded>
+	<count>0</count>
+</folder>
+
+<publication>
+	<lastloaded>sitemap_publication_2.xml</lastloaded>
+	<count>2</count>
+</publication>
+
+<user>
+	<lastloaded>sitemap_user_4.xml</lastloaded>
+	<count>4</count>
+</user>
+
+<editProfile>
+	<lastloaded>init</lastloaded>
+	<count>0</count>
+</editProfile>
+<publish><lastloaded>init</lastloaded><count>0</count></publish><book><lastloaded>sitemap_book_2.xml</lastloaded><count>2</count></book></urlset>

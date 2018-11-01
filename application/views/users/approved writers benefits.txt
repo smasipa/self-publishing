@@ -1,0 +1,8 @@
+Approved writers benefits
+Can set prices on pdfs
+Can set items to premium membership access
+Can check publication performance which includes:
+-Number of downloads
+-Number of pdf purchases
+
+Standard users can read a limited number of items.
