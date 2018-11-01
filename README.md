@@ -1,2 +1,2 @@
-# gamalami_publishing
+# Gamalami Publishing
 A literary publishing platform
